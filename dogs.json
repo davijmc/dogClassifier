@@ -1,0 +1,182 @@
+[
+    {
+        "size": "small",
+        "height": 33,
+        "weight": 6923,
+        "health": "bad"
+    },
+    {
+        "size": "small",
+        "height": 21,
+        "weight": 13768,
+        "health": "bad"
+    },
+    {
+        "size": "small",
+        "height": 31,
+        "weight": 4490,
+        "health": "bad"
+    },
+    {
+        "size": "small",
+        "height": 28,
+        "weight": 11061,
+        "health": "bad"
+    },
+    {
+        "size": "small",
+        "height": 26,
+        "weight": 1575,
+        "health": "regular"
+    },
+    {
+        "size": "small",
+        "height": 13,
+        "weight": 5481,
+        "health": "bad"
+    },
+    {
+        "size": "small",
+        "height": 29,
+        "weight": 14754,
+        "health": "bad"
+    },
+    {
+        "size": "small",
+        "height": 33,
+        "weight": 4894,
+        "health": "bad"
+    },
+    {
+        "size": "small",
+        "height": 13,
+        "weight": 12886,
+        "health": "bad"
+    },
+    {
+        "size": "small",
+        "height": 32,
+        "weight": 3905,
+        "health": "bad"
+    },
+    {
+        "size": "medium",
+        "height": 40,
+        "weight": 15197,
+        "health": "good"
+    },
+    {
+        "size": "medium",
+        "height": 45,
+        "weight": 12573,
+        "health": "good"
+    },
+    {
+        "size": "medium",
+        "height": 45,
+        "weight": 22698,
+        "health": "good"
+    },
+    {
+        "size": "medium",
+        "height": 40,
+        "weight": 21607,
+        "health": "good"
+    },
+    {
+        "size": "medium",
+        "height": 39,
+        "weight": 17470,
+        "health": "good"
+    },
+    {
+        "size": "medium",
+        "height": 48,
+        "weight": 13516,
+        "health": "good"
+    },
+    {
+        "size": "medium",
+        "height": 39,
+        "weight": 16575,
+        "health": "good"
+    },
+    {
+        "size": "medium",
+        "height": 43,
+        "weight": 13886,
+        "health": "good"
+    },
+    {
+        "size": "medium",
+        "height": 39,
+        "weight": 10170,
+        "health": "good"
+    },
+    {
+        "size": "medium",
+        "height": 39,
+        "weight": 11960,
+        "health": "good"
+    },
+    {
+        "size": "big",
+        "height": 69,
+        "weight": 45711,
+        "health": "good"
+    },
+    {
+        "size": "big",
+        "height": 94,
+        "weight": 25858,
+        "health": "good"
+    },
+    {
+        "size": "big",
+        "height": 51,
+        "weight": 33686,
+        "health": "good"
+    },
+    {
+        "size": "big",
+        "height": 76,
+        "weight": 32151,
+        "health": "good"
+    },
+    {
+        "size": "big",
+        "height": 88,
+        "weight": 47676,
+        "health": "good"
+    },
+    {
+        "size": "big",
+        "height": 61,
+        "weight": 46425,
+        "health": "good"
+    },
+    {
+        "size": "big",
+        "height": 56,
+        "weight": 32200,
+        "health": "good"
+    },
+    {
+        "size": "big",
+        "height": 69,
+        "weight": 32457,
+        "health": "good"
+    },
+    {
+        "size": "big",
+        "height": 55,
+        "weight": 29906,
+        "health": "good"
+    },
+    {
+        "size": "big",
+        "height": 99,
+        "weight": 33398,
+        "health": "good"
+    }
+]
