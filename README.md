@@ -80,10 +80,10 @@ The project uses two JSON files:
 ```
 
 ## How it Works
-1.The dataset is loaded from JSON files.
-2.The KNN model is trained using height and weight as input features.
-3.The model is tested on a separate dataset to evaluate its accuracy.
-4.Predictions can be made for new dog data based on height and weight.
+1. The dataset is loaded from JSON files.
+2. The KNN model is trained using height and weight as input features.
+3. The model is tested on a separate dataset to evaluate its accuracy.
+4. Predictions can be made for new dog data based on height and weight.
 
 ## Results
 - The model's accuracy can be evaluated by comparing the predicted sizes against the actual sizes from the test dataset.
